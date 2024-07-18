@@ -51,3 +51,17 @@
     <a href="https://github.com/IvanVito/DevOps/tree/main/CICD" style="margin-left: 10px; padding: 5px; border: 1px solid #FC6D26; text-decoration: none; color: #FC6D26;">Репозиторий с проектом по ознакомлению с CI/CD</a>
 </div>
 
+<div style="text-align: center; margin-bottom: 10px;">
+    <h2>Связаться со мной</h2>
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center;">
+    <div style="display: flex; align-items: center; margin-right: 15px;">
+        <a href="https://t.me/yourusername" style="display: flex; align-items: center; text-decoration: none;">
+            <img src="https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white" alt="Telegram">
+    </div>
+    <div style="display: flex; align-items: center;">
+        <a href="https://vk.com/yourusername" style="display: flex; align-items: center; text-decoration: none;">
+            <img src="https://img.shields.io/badge/VKontakte-4F7DB3?style=flat&logo=vk&logoColor=white" alt="VK">
+    </div>
+</div>
