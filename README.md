@@ -13,7 +13,7 @@
 
 <div style="display: flex; align-items: center;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="20" width="50">
-    <a href="[https://github.com/yourusername/your-repo](https://github.com/IvanVito/my_project_Python)]" style="margin-left: 10px; padding: 5px; border: 1px solid #3776AB; text-decoration: none; color: #3776AB;">Репозиторий с мини-проектами Python</a>
+    <a href="https://github.com/IvanVito/my_project_Python" style="margin-left: 10px; padding: 5px; border: 1px solid #3776AB; text-decoration: none; color: #3776AB;">Репозиторий с мини-проектами Python</a>
 </div>
 
 <div style="display: flex; align-items: center;">
