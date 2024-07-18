@@ -54,14 +54,13 @@
 <div style="text-align: center; margin-bottom: 10px;">
     <h2>Связаться со мной</h2>
 </div>
-
 <div style="display: flex; justify-content: center; align-items: center;">
     <div style="display: flex; align-items: center; margin-right: 15px;">
-        <a href="https://t.me/yourusername" style="display: flex; align-items: center; text-decoration: none;">
+        <a href="https://t.me/lesleyle1" style="display: flex; align-items: center; text-decoration: none;">
             <img src="https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white" alt="Telegram">
     </div>
     <div style="display: flex; align-items: center;">
-        <a href="https://vk.com/yourusername" style="display: flex; align-items: center; text-decoration: none;">
+        <a href="https://vk.com/peace__deaths" style="display: flex; align-items: center; text-decoration: none;">
             <img src="https://img.shields.io/badge/VKontakte-4F7DB3?style=flat&logo=vk&logoColor=white" alt="VK">
     </div>
 </div>
