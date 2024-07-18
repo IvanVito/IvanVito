@@ -1,6 +1,6 @@
 # Hi there. I'm IvanVito!👋
 
-## Стек технологий, с которыми я знаком
+## Мой стек технологий
 <div style="display: flex; align-items: center;">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" height="20" width="50">
     <a href="https://github.com/IvanVito/CPP" style="margin-left: 10px; padding: 5px; border: 1px solid #00599C; text-decoration: none; color: #00599C;">Репозиторий с проектами по С++</a>
