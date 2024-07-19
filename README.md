@@ -1,4 +1,4 @@
-# Hi there. I'm IvanVito!👋
+# Привет👋 Меня зовут Иван
 
 ## Мой стек технологий
 <div style="display: flex; align-items: center;">
