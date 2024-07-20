@@ -18,7 +18,7 @@
 
 <div style="display: flex; align-items: center;">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" height="20" width="50">
-    <a href="https://github.com/IvanVito/SQL" style="margin-left: 10px; padding: 5px; border: 1px solid #4169E1; text-decoration: none; color: #4169E1;">Репозиторий с проектами по PostgreSQL</a>
+    <a href="https://github.com/IvanVito/SQL" style="margin-left: 10px; padding: 5px; border: 1px solid #4169E1; text-decoration: none; color: #4169E1;">Репозиторий с проектами по SQL на PostgreSQL</a>
 </div>
 
 <div style="display: flex; align-items: center;">
