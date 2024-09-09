@@ -23,7 +23,9 @@
 
 <div style="display: flex; align-items: center;">
     <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white" alt="Qt" height="20" width="50">
-    <a href="https://github.com/IvanVito/C/tree/main/calculator_with_QT" style="margin-left: 10px; padding: 5px; border: 1px solid #41CD52; text-decoration: none; color: #41CD52;">Репозиторий с проектом на С и QT</a>
+    Проекты с QT
+    <a href="https://github.com/IvanVito/C/tree/main/calculator_with_QT" style="margin-left: 10px; padding: 5px; border: 1px solid #41CD52; text-decoration: none; color: #41CD52;">Калькулятор</a>
+    <a href="https://github.com/IvanVito/C/tree/main/calculator_with_QT" style="margin-left: 10px; padding: 5px; border: 1px solid #41CD52; text-decoration: none; color: #41CD52;">Игра "Змейка"</a>
 </div>
 
 <div style="display: flex; align-items: center;">
