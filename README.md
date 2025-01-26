@@ -2,6 +2,11 @@
 
 ## Мой стек технологий
 <div style="display: flex; align-items: center;">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=coffeescript&logoColor=white" alt="Java" height="20" width="50">
+    <a href="https://github.com/IvanVito/CPP" style="margin-left: 10px; padding: 5px; border: 1px solid #007396; text-decoration: none; color: #007396;">Репозиторий с проектами по Java </a>
+</div>
+
+<div style="display: flex; align-items: center;">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" height="20" width="50">
     <a href="https://github.com/IvanVito/CPP" style="margin-left: 10px; padding: 5px; border: 1px solid #00599C; text-decoration: none; color: #00599C;">Репозиторий с проектами по С++</a>
 </div>
