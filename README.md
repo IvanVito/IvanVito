@@ -3,7 +3,7 @@
 ## Мой стек технологий
 <div style="display: flex; align-items: center;">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=coffeescript&logoColor=white" alt="Java" height="20" width="50">
-    <a href="https://github.com/IvanVito/CPP" style="margin-left: 10px; padding: 5px; border: 1px solid #007396; text-decoration: none; color: #007396;">Репозиторий с проектами по Java </a>
+    <a href="https://github.com/IvanVito/Java" style="margin-left: 10px; padding: 5px; border: 1px solid #007396; text-decoration: none; color: #007396;">Репозиторий с проектами по Java </a>
 </div>
 
 <div style="display: flex; align-items: center;">
