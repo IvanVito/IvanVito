@@ -17,11 +17,6 @@
 </div>
 
 <div style="display: flex; align-items: center;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="20" width="50">
-    <a href="https://github.com/IvanVito/Python" style="margin-left: 10px; padding: 5px; border: 1px solid #3776AB; text-decoration: none; color: #3776AB;">Репозиторий с мини-проектами Python</a>
-</div>
-
-<div style="display: flex; align-items: center;">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" height="20" width="50">
     <a href="https://github.com/IvanVito/SQL" style="margin-left: 10px; padding: 5px; border: 1px solid #4169E1; text-decoration: none; color: #4169E1;">Репозиторий с проектами по SQL на PostgreSQL</a>
 </div>
