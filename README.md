@@ -34,26 +34,6 @@
     <a href="https://github.com/IvanVito/DevOps" style="margin-left: 10px; padding: 5px; border: 1px solid #007ACC; text-decoration: none; color: #007ACC;">Репозиторий с проектами в сфере DevOps</a>
 </div>
 
-<div style="display: flex; align-items: center;">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" height="20" width="50">
-    <a href="https://github.com/IvanVito/DevOps/tree/main/SimpleDocker" style="margin-left: 10px; padding: 5px; border: 1px solid #2496ED; text-decoration: none; color: #2496ED;">Репозиторий с проектом по Docker</a>
-</div>
-
-<div style="display: flex; align-items: center;">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" height="20" width="50">
-    <a href="https://github.com/IvanVito/DevOps/tree/main/Linux" style="margin-left: 10px; padding: 5px; border: 1px solid #FCC624; text-decoration: none; color: #FCC624;">Репозиторий с проектом по ознакомлению с Linux</a>
-</div>
-
-<div style="display: flex; align-items: center;">
-    <img src="https://img.shields.io/badge/Network-FF6F00?style=flat&logo=network&logoColor=white" alt="Network" height="20" width="50">
-    <a href="https://github.com/IvanVito/DevOps/tree/main/LinuxNetwork" style="margin-left: 10px; padding: 5px; border: 1px solid #FF6F00; text-decoration: none; color: #FF6F00;">Репозиторий с проектом по ознакомлению с сетями</a>
-</div>
-
-<div style="display: flex; align-items: center;">
-    <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=white" alt="GitLab CI" height="20" width="50">
-    <a href="https://github.com/IvanVito/DevOps/tree/main/CICD" style="margin-left: 10px; padding: 5px; border: 1px solid #FC6D26; text-decoration: none; color: #FC6D26;">Репозиторий с проектом по ознакомлению с CI/CD</a>
-</div>
-
 <div style="text-align: center; margin-bottom: 10px;">
 <h2>Связаться со мной</h2>
 </div>
